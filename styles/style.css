@@ -1,0 +1,13 @@
+html{
+    color: aqua;
+}
+p, h1, h2 {
+    color: red;
+    width: 50px;
+    border: 5px solid rgb(243, 166, 166);
+}
+h1{
+    color: blueviolet;
+}
+
+body{color: aquamarine;}
